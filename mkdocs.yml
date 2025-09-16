@@ -1,0 +1,20 @@
+site_name: Wojtek Salski Creative Works
+site_author: Marcin Salski
+site_description: >-
+  Portfolio of my creative projects
+
+repo_name: MarcinSalski/ws_portfolio
+repo_url: https://github.com/MarcinSalski/ws_portfolio
+
+theme:
+  name: material
+
+nav:
+- Powitanie: index.md
+- Book descriptions:
+  -
+- Other topics:
+  - 
+
+  
+
