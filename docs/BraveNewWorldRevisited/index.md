@@ -1,6 +1,6 @@
 # "Brave New World Revisited" by Aldus Huxley
 
-<img src="cover.jpg" alt=" " width="800">
+<img src="cover.jpg" alt=" " width="80">
 
 In this week’s episode, we dive into Aldous Huxley’s Brave New World: Revisited, exploring his prescient warnings about the dangers of over-organization and centralized power in shaping a controlled society. 
 
