@@ -1,5 +1,7 @@
 # "Brave New World Revisited" by Aldus Huxley
 
+<img src="cover.jpg" alt=" " width="800">
+
 In this week’s episode, we dive into Aldous Huxley’s Brave New World: Revisited, exploring his prescient warnings about the dangers of over-organization and centralized power in shaping a controlled society. 
 
 We examine how propaganda and the manipulative art of selling brainwash populations, eroding critical thought and fostering compliance. 
@@ -17,6 +19,5 @@ All the love, all the power, all of the time!
 
 <a href="https://www.youtube.com/watch?v=iyqHwpR7As8" target="_blank" class="md-button md-button--primary">Listen to  full podcast</a>
 
-<img src="cover.jpg" alt=" " width="800">
 
 </script>
