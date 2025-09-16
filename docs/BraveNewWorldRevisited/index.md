@@ -1,4 +1,4 @@
-# "Brave New World Revisited" by Aldus Haxley
+# "Brave New World Revisited" by Aldus Huxley
 
 In this week’s episode, we dive into Aldous Huxley’s Brave New World: Revisited, exploring his prescient warnings about the dangers of over-organization and centralized power in shaping a controlled society. 
 
@@ -15,8 +15,8 @@ I trust that this episode, will prove beneficial to you, your loved ones, and th
 
 All the love, all the power, all of the time!
 
-<a href="https://www.youtube.com/watch?v=iyqHwpR7As8" target="_blank" class="md-button md-button--primary">Uruchom aplikację</a>
+<a href="https://www.youtube.com/watch?v=iyqHwpR7As8" target="_blank" class="md-button md-button--primary">Listen to  full podcast</a>
 
-<img src="Roweremwsrodjezior.png" alt="Tak wygląda przykładowa kolorowanka stworzona przy pomocy aplikacji" width="800">
+<img src="cover.jpg" alt=" " width="800">
 
 </script>
