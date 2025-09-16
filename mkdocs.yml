@@ -14,9 +14,10 @@ theme:
 nav:
 - Welcome: index.md
 - Podcasts about books:
-  - "Kolorowanki": Kolorowanki/index.md
   - "Brave New World Revisited by Aldous Huxley": BraveNewWorldRevisited/index.md
   - "The Road by Cormac McCarthy": TheRoad/index.md
+- Other podcasts: OtherPodcasts/index.md
+- Books: OwnBooks/index.md
 
 
   
