@@ -9,9 +9,8 @@ repo_url: https://github.com/MarcinSalski/ws_portfolio
 theme:
   name: material
   palette:
-    scheme: default 
-    primary: 'rgb(0, 100, 0)'
-    accent: red
+    primary: rgb(255, 64, 120)
+    accent: rgb(33, 150, 243)
 
 nav:
 - Welcome: index.md
