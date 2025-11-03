@@ -10,7 +10,7 @@ theme:
   name: material
   palette:
     scheme: default 
-    primary: rgb(244, 67, 54)
+    primary: rgb(153, 0, 76)
 
 nav:
 - Welcome: index.md
