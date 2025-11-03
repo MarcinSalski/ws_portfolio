@@ -1,4 +1,4 @@
-site_name: WS Podcasts
+site_name: WS Podcasts 1
 site_author: Marcin Salski
 site_description: >-
   Portfolio of my creative projects
@@ -10,7 +10,7 @@ theme:
   name: material
   palette:
     scheme: default 
-    primary: rgb(0, 100, 0)
+    primary: 'rgb(0, 100, 0)'
     accent: red
 
 nav:
