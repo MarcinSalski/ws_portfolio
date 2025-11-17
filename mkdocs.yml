@@ -1,6 +1,6 @@
-site_name: WS Podcasts 1
+site_name: WS Podcasts
 site_author: Marcin Salski
-site_description: >-
+site_description: >
   Portfolio of my creative projects
 
 repo_name: MarcinSalski/ws_portfolio
@@ -8,16 +8,23 @@ repo_url: https://github.com/MarcinSalski/ws_portfolio
 
 theme:
   name: material
-  palette:
-    primary: rgb(255, 64, 129)
-    accent: rgb(33, 150, 243)
+  language: en
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+# Podłączenie własnych stylów z kolorami RGB
+extra_css:
+  - stylesheets/extra.css
 
 nav:
-- Welcome: index.md
-- Book library:
-  - "Brave New World Revisited by Aldous Huxley": BraveNewWorldRevisited/index.md
-  - "The Road by Cormac McCarthy": TheRoad/index.md
-- Episode library: OtherPodcasts/index.md
+  - Welcome: index.md
+  - Book library:
+      - "Brave New World Revisited by Aldous Huxley": BraveNewWorldRevisited/index.md
+      - "The Road by Cormac McCarthy": TheRoad/index.md
+  - Episode library: OtherPodcasts/index.md
 
 
 
