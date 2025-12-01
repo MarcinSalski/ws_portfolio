@@ -1,13 +1,13 @@
 :root {
   /* Kolor główny (navbar, nagłówki, elementy nawigacji) */
-  --md-primary-fg-color: rgb(153, 0, 76);
+  --md-primary-fg-color: rgb(95, 34, 104);
 
   /* Kolor akcentu (linki, przyciski, podświetlenia) */
-  --md-accent-fg-color: rgb(0, 0, 255);
+  --md-accent-fg-color: rgb(29, 45, 81);
 
   /* Opcjonalnie – tło górnej belki */
-  --md-primary-bg-color: rgb(255, 255, 255);
+  --md-primary-bg-color: rgb(236, 235, 228);
 
   /* (opcjonalnie) Kolor tekstu w nav-bar */
-  --md-primary-fg-color--light: rgb(255, 255, 255);
+  --md-primary-fg-color--light: rgb(236, 235, 228);
 }
