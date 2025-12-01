@@ -16,10 +16,9 @@ theme:
     - content.code.copy
 
 # Podłączenie własnych stylów z kolorami RGB
-extra_css:
-  - stylesheets/extra.css
+extra_css: stylesheets/extra.css
 
 nav:
   - Welcome: index.md
-  - Books: docs/Books/index.md
-  - Episode library: docs/Podcasts/index.md
+  - Books: Books/index.md
+  - Episode library: Podcasts/index.md
