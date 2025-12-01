@@ -21,7 +21,5 @@ extra_css:
 
 nav:
   - Welcome: index.md
-  - Book library:
-      - "Brave New World Revisited by Aldous Huxley": BraveNewWorldRevisited/index.md
-      - "The Road by Cormac McCarthy": TheRoad/index.md
+  - Books: Books/index.md
   - Episode library: Podcasts/index.md
