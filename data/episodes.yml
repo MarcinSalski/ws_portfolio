@@ -1,0 +1,16 @@
+episodes:
+- title: "Brave New World Revisited"
+  author: "Aldous Huxley"
+  youtube: "https://www.youtube.com/watch?v=iyqHwpR7As8"
+  spotify: "https://open.spotify.com/show/2bcP2r30SdpUuUCU6Jmnk9"
+  amazon: "https://amzn.eu/d/1f9Bk0Z"
+  cover: "BraveNewWorldRevisited.jpg"
+
+
+# Dodawaj kolejne epizody w tej samej strukturze:
+# - title: "..."
+# author: "..."
+# youtube: "..."
+# spotify: "..."
+# amazon: "..."
+# cover: "..."

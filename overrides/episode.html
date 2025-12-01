@@ -1,0 +1,47 @@
+{% for ep in config.extra.episodes %}
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 35px;">
+
+
+    <!-- Lewa kolumna: tytuł -->
+    <div style="flex: 1;">
+        <h2 style="margin: 0;">"{{ ep.title }}" by {{ ep.author }}</h2>
+    </div>
+
+
+    <!-- Środkowa kolumna: okładka -->
+    <div style="flex: 0 0 auto; display: flex; align-items: center;">
+        <img src="{{ ep.cover }}" alt="Cover" style="width: 120px; height: auto; border-radius: 4px;">
+    </div>
+
+
+    <!-- Prawa kolumna: linki -->
+    <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 6px;">
+
+
+        <a href="{{ ep.youtube }}"
+            target="_blank"
+            class="md-button md-button--primary"
+            style="padding: 4px 8px; font-size: 0.7rem;">
+            Listen (YouTube)
+        </a>
+
+
+        <a href="{{ ep.spotify }}"
+            target="_blank"
+            class="md-button md-button--primary"
+            style="padding: 4px 8px; font-size: 0.7rem;">
+            Spotify
+        </a>
+
+
+        <a href="{{ ep.amazon }}"
+            target="_blank"
+            class="md-button md-button--primary"
+            style="padding: 4px 8px; font-size: 0.7rem;">
+            Amazon
+        </a>
+
+    </div>
+
+</div>
+{% endfor %}

@@ -6,26 +6,26 @@ site_description: >
 repo_name: MarcinSalski/ws_portfolio
 repo_url: https://github.com/MarcinSalski/ws_portfolio
 
+nav:
+  - Podcast: podcast.md
+
+
 theme:
   name: material
-  language: en
-  features:
-    - navigation.instant
-    - navigation.sections
-    - navigation.top
-    - content.code.copy
-
-# Podłączenie własnych stylów z kolorami RGB
-extra_css:
-  - stylesheets/extra.css
-
-nav:
-  - Welcome: index.md
-  - Book library: Books\index.md
-  - Episode library: Podcasts\index.md
-  - Test: index_test.md
+  custom_dir: overrides
 
 
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - meta
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.include
+  - pymdownx.snippets
 
-  
 
+extra:
+  episodes: !include data/episodes.yml
