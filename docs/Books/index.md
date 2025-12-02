@@ -9,7 +9,7 @@
 
   <!-- Środkowa kolumna: okładka -->
   <div style="flex: 0 0 auto; display: flex; align-items: center;">
-    <img src="BraveNewWorldRevisited.jpg" alt="" style="width: 120px; height: auto;">
+    <img src="BraveNewWorldRevisited.jpg" alt="" style="width: 60px; height: auto;">
   </div>
 
   <!-- Prawa kolumna: linki -->
