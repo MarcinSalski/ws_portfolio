@@ -4,7 +4,7 @@
 
   <!-- Lewa kolumna: tytuł -->
   <div style="flex: 1;">
-    <h3 style="margin: 0;">"Brave New World Revisited" by Aldous Huxley</h3>
+    <h3 style="margin: 0;">"Brave New World Revisited 6" by Aldous Huxley</h3>
   </div>
 
   <!-- Środkowa kolumna: okładka -->
@@ -13,7 +13,7 @@
   </div>
 
   <!-- Prawa kolumna: linki -->
-  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 6px;">
 
     <a href="https://www.youtube.com/watch?v=iyqHwpR7As8" 
        target="_blank"
