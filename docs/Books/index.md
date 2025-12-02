@@ -1,10 +1,10 @@
 # Books that I have presented
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 16px;">
 
   <!-- Lewa kolumna: tytuł -->
   <div style="flex: 1;">
-    <h3 style="margin: 0;">"Brave New World Revisited new invisible space" by Aldous Huxley</h3>
+    <h3 style="margin: 0;">"Brave New World Revisited margin button" by Aldous Huxley</h3>
   </div>
 
   <!-- Środkowa kolumna: okładka -->
@@ -40,9 +40,7 @@
 
 </div>
 
-<h3 style="margin: 0;"> </h3>
-
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 16px;">
 
   <!-- Lewa kolumna: tytuł -->
   <div style="flex: 1;">
