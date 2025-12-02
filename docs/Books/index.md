@@ -4,16 +4,16 @@
 
   <!-- Lewa kolumna: tytuł -->
   <div style="flex: 1;">
-    <h3 style="margin: 0;">"Brave New World Revisited 1" by Aldous Huxley</h3>
+    <h3 style="margin: 0;">"Brave New World Revisited" by Aldous Huxley</h3>
   </div>
 
   <!-- Środkowa kolumna: okładka -->
   <div style="flex: 0 0 auto; display: flex; align-items: center;">
-    <img src="BraveNewWorldRevisited.jpg" alt="" style="width: 50px; height: auto;">
+    <img src="BraveNewWorldRevisited.jpg" alt="" style="width: 58px; height: auto;">
   </div>
 
   <!-- Prawa kolumna: linki -->
-  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 6px;">
+  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 20px;">
 
     <a href="https://www.youtube.com/watch?v=iyqHwpR7As8" 
        target="_blank"
@@ -50,7 +50,7 @@
 
   <!-- Środkowa kolumna: okładka -->
   <div style="flex: 0 0 auto; display: flex; align-items: center;">
-    <img src="TheRoad.jpg" alt="" style="width: 50px; height: auto;">
+    <img src="TheRoad.jpg" alt="" style="width: 58px; height: auto;">
   </div>
 
   <!-- Prawa kolumna: linki -->
