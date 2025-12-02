@@ -40,4 +40,45 @@
 
 </div>
 
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+
+  <!-- Lewa kolumna: tytuł -->
+  <div style="flex: 1;">
+    <h3 style="margin: 0;">"The Road" by Cormac McCarthy</h3>
+  </div>
+
+  <!-- Środkowa kolumna: okładka -->
+  <div style="flex: 0 0 auto; display: flex; align-items: center;">
+    <img src="TheRoad.jpg" alt="" style="width: 59px; height: auto;">
+  </div>
+
+  <!-- Prawa kolumna: linki -->
+  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 6px;">
+
+    <a href="https://www.youtube.com/watch?v=conm-HLtFOI" 
+       target="_blank"
+       class="md-button md-button--primary"
+       style="padding: 2px 4px; font-size: 0.5rem;">
+       Listen
+    </a>
+
+    <a href="https://amzn.eu/d/ebyUm2o"
+       target="_blank"
+       class="md-button md-button--primary"
+       style="padding: 2px 4px; font-size: 0.5rem;">
+       Amazon
+    </a>
+
+    <a href="https://linktr.ee/w.salski"
+       target="_blank"
+       class="md-button md-button--primary"
+       style="padding: 2px 4px; font-size: 0.5rem;">
+       Support
+    </a>
+
+  </div>
+
+</div>
+
 </script>
