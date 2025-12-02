@@ -18,21 +18,21 @@
     <a href="https://www.youtube.com/watch?v=iyqHwpR7As8" 
        target="_blank"
        class="md-button md-button--primary"
-       style="padding: 4px 8px; font-size: 0.7rem;">
+       style="padding: 2px 4px; font-size: 0.5rem;">
        Listen
     </a>
 
     <a href="https://amzn.eu/d/1f9Bk0Z"
        target="_blank"
        class="md-button md-button--primary"
-       style="padding: 4px 8px; font-size: 0.7rem;">
+       style="padding: 2px 4px; font-size: 0.5rem;">
        Amazon
     </a>
 
     <a href="https://linktr.ee/w.salski"
        target="_blank"
        class="md-button md-button--primary"
-       style="padding: 4px 8px; font-size: 0.7rem;">
+       style="padding: 2px 4px; font-size: 0.5rem;">
        Support
     </a>
 
