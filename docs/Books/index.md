@@ -4,7 +4,7 @@
 
   <!-- Lewa kolumna: tytuł -->
   <div style="flex: 1;">
-    <h1 style="margin: 0;">"Brave New World Revisited h1" by Aldous Huxley</h1>
+    <h1 style="margin: 0;">"Brave New World Revisited h3" by Aldous Huxley</h1>
   </div>
 
   <!-- Środkowa kolumna: okładka -->
