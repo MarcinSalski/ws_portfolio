@@ -10,7 +10,7 @@
 
   <!-- Środkowa kolumna: okładka -->
   <div style="flex: 0 0 auto; display: flex; align-items: center;">
-    <img src="BraveNewWorldRevisited.jpg" alt="" style="width: 58px; height: auto;">
+    <img src="BraveNewWorldRevisited.jpg" alt="" style="width: 70px; height: auto;">
   </div>
 
   <!-- Prawa kolumna: linki -->
@@ -20,7 +20,14 @@
        target="_blank"
        class="md-button md-button--primary"
        style="padding: 2px 4px; font-size: 0.5rem;">
-       Listen
+       YouTube
+    </a>
+
+    <a href="https://open.spotify.com/episode/2UkeD6hsYipeqAenQyvop8?si=9b8712fd79c14091" 
+       target="_blank"
+       class="md-button md-button--primary"
+       style="padding: 2px 4px; font-size: 0.5rem;">
+       Spotify
     </a>
 
     <a href="https://amzn.eu/d/1f9Bk0Z"
@@ -51,7 +58,7 @@
 
   <!-- Środkowa kolumna: okładka -->
   <div style="flex: 0 0 auto; display: flex; align-items: center;">
-    <img src="TheRoad.jpg" alt="" style="width: 58px; height: auto;">
+    <img src="TheRoad.jpg" alt="" style="width: 70px; height: auto;">
   </div>
 
   <!-- Prawa kolumna: linki -->
@@ -61,7 +68,14 @@
        target="_blank"
        class="md-button md-button--primary"
        style="padding: 2px 4px; font-size: 0.5rem;">
-       Listen
+       Youtube
+    </a>
+
+    <a href="https://open.spotify.com/episode/1IWBAsunhlNkUl1oHoighc?si=e553a9edb892446a" 
+       target="_blank"
+       class="md-button md-button--primary"
+       style="padding: 2px 4px; font-size: 0.5rem;">
+       Spotify
     </a>
 
     <a href="https://amzn.eu/d/ebyUm2o"
