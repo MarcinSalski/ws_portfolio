@@ -5,8 +5,12 @@
   <!-- Lewa kolumna: tytuł -->
   <div style="flex: 1;">
     <h3 style="margin: 0;">"
+
+
     
-    Brave New World Revisited
+    Brave New World Revisited 2
+
+
     
     " by Aldous Huxley</h3>
   </div>
