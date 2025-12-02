@@ -3,10 +3,10 @@
   --md-primary-fg-color: rgb(95, 34, 104);
 
   /* Kolor akcentu (linki, przyciski, podświetlenia) */
-  --md-accent-fg-color: rgb(129, 45, 81);
+  --md-accent-fg-color: rgb(29, 45, 81);
 
   /* Opcjonalnie – tło górnej belki */
-  --md-primary-bg-color: rgb(136, 235, 228);
+  --md-primary-bg-color: rgb(236, 235, 228);
 
   /* (opcjonalnie) Kolor tekstu w nav-bar */
   --md-primary-fg-color--light: rgb(236, 235, 228);
