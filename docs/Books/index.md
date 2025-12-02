@@ -4,7 +4,7 @@
 
   <!-- Lewa kolumna: tytuł -->
   <div style="flex: 1;">
-    <h3 style="margin: 0;">"Brave New World Revisited invisible space" by Aldous Huxley</h3>
+    <h3 style="margin: 0;">"Brave New World Revisited new space" by Aldous Huxley</h3>
   </div>
 
   <!-- Środkowa kolumna: okładka -->
@@ -40,7 +40,7 @@
 
 </div>
 
- 
+<h3 style="margin: 0;">space</h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
